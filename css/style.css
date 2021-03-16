@@ -1,0 +1,10 @@
+table {
+    background-color: beige;
+}
+
+th {
+    color: firebrick;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    font-size: 110%;
+}
