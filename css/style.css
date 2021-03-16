@@ -1,10 +1,26 @@
 table {
     background-color: beige;
+
+    border-style: solid;
+    border-width: 3px;
 }
 
 th {
     color: firebrick;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 700;
-    font-size: 110%;
+    font-size: 18px;
+}
+
+.heading h1 {
+    color: indigo;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    font-size: 32px;
+
+    border-width: 20px 5px 0px 0px;
+}
+
+footer {
+    size: 10px;
 }
